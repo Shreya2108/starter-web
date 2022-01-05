@@ -10,5 +10,6 @@ Sample website with plenty of files for demos
 ##Deployment
 
 ## How To Contribute
+fork and issue pull requests
 
 ### Copyright
